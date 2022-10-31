@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/efeyilmazer/Frontend-exercise](https://github.com/efeyilmazer/Frontend-exercise)
+- 👨‍💻 All of my projects are available at [https://github.com/efeyilmazer?tab=repositories](https://github.com/efeyilmazer?tab=repositories)
 
 - 📫 How to reach me **efekan1232@gmail.com**
 
