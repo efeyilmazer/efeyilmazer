@@ -1,4 +1,4 @@
-There are some of my Front-end components.
+### Hi there! There are some of my Front-end components.
 
 ✔ Safari browser component example
 ![safari-browser](https://user-images.githubusercontent.com/84992900/126917212-57c9e755-b138-4f24-8fdf-60e9b09d3df6.png)
