@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/efe-yılmazer-19b822228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efeyilmazer" height="30" width="40" /></a>
 <a href="https://instagram.com/efeyilmazer.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efeyilmazer" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=efeyilmazer&show_icons=true&locale=en&layout=compact" alt="efeyilmazer" /></p>
 
 ✔ Safari browser component example
 ![safari-browser](https://user-images.githubusercontent.com/84992900/126917212-57c9e755-b138-4f24-8fdf-60e9b09d3df6.png)
