@@ -1,6 +1,6 @@
-<h6 align="center">A passionate frontend developer from Turkey.</h6>
+<h1 align="center">A passionate frontend developer from Turkey.</h1>
 
-<h1 align="center">All of my projects avaliable here:</h1>
+<h2 align="center">All of my projects avaliable here: https://github.com/efeyilmazer/Frontend-exercise/blob/main/README.md</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
