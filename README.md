@@ -1,4 +1,4 @@
-<h1 align="center">A passionate frontend developer</h1>
+<h1 align="center">A passionate frontend developer!</h1>
 
 <h5 align="center">All of my projects avaliable here: https://github.com/efeyilmazer/Frontend-exercise/blob/main/README.md</h5>
 
