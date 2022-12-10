@@ -2,7 +2,7 @@
 A
 <h5 align="center">All of my projects avaliable here: https://github.com/efeyilmazer/Frontend-exercise/blob/main/README.md</h5>
 
-Aaaa
+Aaa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
